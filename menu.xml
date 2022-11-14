@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<menu>
+    <category name= "Coffee">
+        <item>
+            <listing>Expresso</listing>
+            <price>3.00</price>
+        </item>
+        <item>
+            <listing>Latte</listing>
+            <price>3.50</price>
+        </item> 
+        <item decaf= "true">
+            <listing>Americano</listing>
+            <price>3.50</price>
+        </item>
+    </category>
+    <category name= "Frappe">
+        <item>
+            <listing>Salted Caramel Frappe</listing>
+            <price>4.50</price>
+        </item>
+        <item>
+            <listing>Mint Chocolate Frappe</listing>
+            <price>5.00</price>
+        </item>
+        <item>
+            <listing>Chocolate Frappe</listing>
+            <price>4.50</price>
+        </item>
+    </category>
+    <category name= "Iced Coffee">
+        <item>
+            <listing> Iced Flat White</listing>
+            <price>4.50</price>
+        </item>
+        <item>
+            <listing>Iced Vanilla</listing>
+            <price>4.50</price>
+        </item>
+        <item>
+            <listing>Iced Chocolate</listing>
+            <price>4.50</price>
+        </item>
+    </category>
+    <category name= "Tea">
+        <item>
+            <listing>Mint Tea</listing>
+            <price>3.00</price>
+        </item>
+        <item>
+            <listing>Camomile Tea</listing>
+            <price>3.00</price>
+        </item>
+        <item decaf="true">
+            <listing>Breakfast</listing>
+            <price>4.50</price>
+        </item>
+    </category>
+    <category name= "Dessert">
+        <item>
+            <listing>Brownie</listing>
+            <price>4.50</price>
+        </item>
+        <item>
+            <listing>Vanilla Cheesecake</listing>
+            <price>4.00</price>
+        </item>
+        <item>
+            <listing>Carrot Cake</listing>
+            <price>5.00</price>
+        </item>
+    </category>
+     </menu>
