@@ -44,6 +44,7 @@
 					// return the price as a decimal number with 2 decimal places
 					return Math.round(fBillTotal * 100.0) / 100.0;
 				};
+
 				// This function either turns on or off the row highlighting for decaf
 				// items (depending on the value of bShowDecaf)
 				function highlightDecaf(idTable, bShowDecaf) {
@@ -65,6 +66,7 @@
 						};
 					};
 				};
+
 				// Utility function for getting the parent tag of a given tag
 				// but only of a certain type (i.e. a TR, a TABLE, etc.)
 				function getParentTag(oNode, sParentType) {
@@ -129,7 +131,7 @@
 				</table>
 				<form class="indent">
 					<p><input type="button" name="btnCalcBill" value="Calculate Bill" id="calcBill"/>
-                Total: €
+                Total:
                 <input type="text" name="txtBillAmt"/><input type="checkbox" name="cbOpts" value="isDecaf" id="showDecaf"/><label for="showDecaf">Highlight Decaf Drinks</label></p>
 				</form>
 			</body>
