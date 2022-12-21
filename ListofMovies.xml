@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<menu>
+    <category name="Action">
+        <movie>
+            <name>Top Gun</name>
+            <duration>2:11</duration>
+        </movie>
+         <movie>
+            <name>John Wick </name>
+            <duration>1:41</duration>
+        </movie>
+        <movie>
+            <name>007- No Time to die </name>
+            <duration>2:43</duration>
+        </movie>
+    </category>
+    <category name="Comedy">
+        <movie>
+            <name>Ride Along</name>
+            <duration>1:40</duration>
+        </movie>
+        <movie>
+            <name>The Hangover</name>
+            <duration>1:40</duration>
+        </movie>
+        <movie>
+            <name>MIB Men in Black</name>
+            <duration>1:38</duration>
+        </movie>
+    </category>
+    <category name="Horror">
+         <movie>
+            <name>Constantine</name>
+            <duration>2:10</duration>
+        </movie>
+         <movie>
+            <name>Nope</name>
+            <duration>2:10</duration>
+        </movie>
+        <movie>
+            <name>Halloween Ends</name>
+            <duration>1:51</duration>
+        </movie>
+    </category>
+    <category name="Drama">
+        <movie>
+            <name>Belfast</name>
+            <duration>1:37</duration>
+        </movie>
+         <movie>
+            <name>Black Swan</name>
+            <duration>1:48</duration>
+        </movie>
+         <movie>
+            <name>me before you</name>
+            <duration>1:50</duration>
+        </movie>
+    </category>
+    <category name="Animation">
+        <movie>
+            <name>Coco</name>
+            <duration>1:45</duration>
+        </movie>
+         <movie>
+            <name>Spider-Man Into the Spider Verse</name>
+            <duration>1:56</duration>
+        </movie>
+         <movie>
+            <name>Minions</name>
+            <duration>1:30</duration>
+        </movie>
+    </category>
+</menu>
