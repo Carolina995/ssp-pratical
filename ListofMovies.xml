@@ -1,73 +1,91 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+
 <menu>
     <category name="Action">
         <movie>
             <name>Top Gun</name>
             <duration>2:11</duration>
-        </movie>
+            <year>2022</year>
+           </movie>
          <movie>
-            <name>John Wick </name>
+            <name>John Wick: Chapter 3 - Parabellum </name>
             <duration>1:41</duration>
+            <year>2019</year>
         </movie>
         <movie>
             <name>007- No Time to die </name>
             <duration>2:43</duration>
-        </movie>
-    </category>
-    <category name="Comedy">
-        <movie>
-            <name>Ride Along</name>
-            <duration>1:40</duration>
-        </movie>
-        <movie>
-            <name>The Hangover</name>
-            <duration>1:40</duration>
-        </movie>
-        <movie>
-            <name>MIB Men in Black</name>
-            <duration>1:38</duration>
-        </movie>
-    </category>
-    <category name="Horror">
-         <movie>
-            <name>Constantine</name>
-            <duration>2:10</duration>
-        </movie>
-         <movie>
-            <name>Nope</name>
-            <duration>2:10</duration>
-        </movie>
-        <movie>
-            <name>Halloween Ends</name>
-            <duration>1:51</duration>
-        </movie>
-    </category>
-    <category name="Drama">
-        <movie>
-            <name>Belfast</name>
-            <duration>1:37</duration>
-        </movie>
-         <movie>
-            <name>Black Swan</name>
-            <duration>1:48</duration>
-        </movie>
-         <movie>
-            <name>me before you</name>
-            <duration>1:50</duration>
+            <year>2021</year>
         </movie>
     </category>
     <category name="Animation">
         <movie>
             <name>Coco</name>
             <duration>1:45</duration>
+            <year>2017</year>
         </movie>
          <movie>
             <name>Spider-Man Into the Spider Verse</name>
             <duration>1:56</duration>
+            <year>2018</year>
         </movie>
          <movie>
-            <name>Minions</name>
+            <name>Minions: The Rise of Gru</name>
             <duration>1:30</duration>
+            <year>2022</year>
         </movie>
+    <category name="Comedy">
+        <movie>
+            <name>Ride Along 2</name>
+            <duration>1:40</duration>
+            <year>2016</year>
+        </movie>
+        <movie>
+            <name>The Hangover</name>
+            <duration>1:40</duration>
+            <year>2009</year>
+        </movie>
+        <movie>
+            <name>MIB Men in Black international</name>
+            <duration>1:38</duration>
+            <year>2019</year>
+        </movie>
+    </category>
+    <category name="Drama">
+        <movie>
+            <name>Belfast</name>
+            <duration>1:37</duration>
+            <year>2021</year>
+        </movie>
+         <movie>
+            <name>Black Swan</name>
+            <duration>1:48</duration>
+            <year>2010</year>
+            
+        </movie>
+         <movie>
+            <name>me before you</name>
+            <duration>1:50</duration>
+            <year>2016</year>
+        </movie>
+    </category>
+    <category name="Horror">
+         <movie>
+            <name>Constantine</name>
+            <duration>2:10</duration>
+            <year>2005</year>
+        </movie>
+         <movie>
+            <name>Nope</name>
+            <duration>2:10</duration>
+            <year>2022</year>
+        </movie>
+        <movie>
+            <name>Halloween Ends</name>
+            <duration>1:51</duration>
+            <year>2022</year>
+        </movie>
+    </category>
+    
     </category>
 </menu>
